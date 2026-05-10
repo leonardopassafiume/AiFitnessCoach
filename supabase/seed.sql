@@ -1,0 +1,1 @@
+-- Seed data will be added once Supabase auth and local dev are configured.
